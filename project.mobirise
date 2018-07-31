@@ -7018,7 +7018,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-06-12-om-16.56.23.png",
+                "image": "@PROJECT_PATH@/assets/images/2fietsen.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -7052,8 +7052,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">VOOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/lntf0740-copy.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/reuu3942.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -7070,7 +7070,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2018-07-28-om-17.32.13.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
